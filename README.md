@@ -211,13 +211,9 @@ All dependencies are managed through `gradle/libs.versions.toml`:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
 
-Developed as part of Android development learning journey.
 
 ## 🔮 Future Enhancements
 
@@ -231,7 +227,7 @@ Potential features for future versions:
 - Search functionality
 - Reviews and ratings system
 
-## 📞 Support
+
 
 For issues, questions, or suggestions, please open an issue in the repository.
 
