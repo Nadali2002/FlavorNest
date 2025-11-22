@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Soft translucent background -->
+    <solid android:color="#CCFFFFFF"/> <!-- White with transparency -->
+
+    <!-- Rounded corners -->
+    <corners android:radius="50dp"/>
+
+    <!-- Very soft border for definition -->
+    <stroke android:width="2dp" android:color="@android:color/transparent"/>
+    <padding android:left="1dp" android:top="1dp" android:right="1dp" android:bottom="1dp"/>
+    <gradient
+        android:startColor="@color/secondaryColor"
+        android:endColor="@color/warm_yellow_orange"
+        android:angle="90"/>
+
+
+</shape>

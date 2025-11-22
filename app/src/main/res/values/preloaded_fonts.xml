@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/adlam_display</item>
+        <item>@font/agbalumo</item>
+        <item>@font/allan</item>
+        <item>@font/amarante</item>
+        <item>@font/amaranth_bold</item>
+        <item>@font/amita</item>
+        <item>@font/andika_new_basic_bold_italic</item>
+        <item>@font/cambay</item>
+        <item>@font/cambay_italic</item>
+        <item>@font/lobster</item>
+    </array>
+</resources>
